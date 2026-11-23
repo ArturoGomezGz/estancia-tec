@@ -31,6 +31,14 @@ Carpeta [`reportes/`](reportes/), un archivo `.docx` por semana:
 | 12 | `reporte-semana-12.docx` |
 | 13 | `reporte-semana-13.docx` |
 
+## Avances
+
+Carpeta [`avances/`](avances/), entregables de avance solicitados por la universidad:
+
+| Avance | Archivo |
+|---|---|
+| Primer avance | `primer-avance.docx` |
+
 La semana 1 corresponde al 9–15 de agosto de 2026; las semanas 1 y 2 aún no están incluidas.
 
 ## Dataframe

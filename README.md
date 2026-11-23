@@ -30,6 +30,8 @@ Carpeta [`reportes/`](reportes/), un archivo `.docx` por semana:
 | 11 | `reporte-semana-11.docx` |
 | 12 | `reporte-semana-12.docx` |
 | 13 | `reporte-semana-13.docx` |
+| 14 | `reporte-semana-14.docx` |
+| 15 | `reporte-semana-15.docx` |
 
 ## Avances
 

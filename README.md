@@ -40,6 +40,7 @@ Carpeta [`avances/`](avances/), entregables de avance solicitados por la univers
 | Avance | Archivo |
 |---|---|
 | Primer avance | `primer-avance.docx` |
+| Segundo avance | `segundo-avance.docx` |
 
 La semana 1 corresponde al 9–15 de agosto de 2026; las semanas 1 y 2 aún no están incluidas.
 
